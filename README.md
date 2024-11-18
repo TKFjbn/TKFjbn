@@ -1,13 +1,15 @@
 [EN]
-- 👋 Hi, I’m Francisco (also know as T'K or TK)
-- 👀 I’m interested in Software development. Like APPs, Web or videogames. Also I’m a Pixel artist, 3D modeler and a non-professional musician composer.
-- 📫 Email: tkdev.fjbn@gmail.com y tkiller.fjbn@gmail.com.
-
+Hi im T'K, Teka, or whatever...
+I am a game developer (kinda?... idk...), pixelartist (maybe yes?...) and a composer... (eh...)
 
 [ES]
-- 👋 Hola soy Francisco (Tambien bajo el nick de T'K o TK).
-- 👀 Estoy interesado en el desarrollo de software, ya sea en APPs, WEB o videojuegos. Ademas soy Pixel artits, modelador 3D y aficionado en la composicion musical.
-- 📫 Email: tkdev.fjbn@gmail.com y tkiller.fjbn@gmail.com.
+Lo de arriba, pero en español.
+
+[PT]
+não se português
+
+[JP]
+あ、日本語ダメ
 
 
 
